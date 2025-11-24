@@ -1,5 +1,8 @@
 import FormalizationInLean2025.Defs.FiL_Algorithms_Defs
+import FormalizationInLean2025.Defs.FiL_Semantics_Defs
+import FormalizationInLean2025.Defs.LoVelib
 import FormalizationInLean2025.FiL_Homework1_Logic
 import FormalizationInLean2025.FiL_Homework2_Arithmetic
 import FormalizationInLean2025.FiL_Homework3_Induction
 import FormalizationInLean2025.FiL_Homework4_Algorithms
+import FormalizationInLean2025.FiL_Homework5_Semantics
